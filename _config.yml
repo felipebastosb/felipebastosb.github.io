@@ -36,13 +36,14 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 #twitter: mytwitter
-instagram: myinstagram
+email: felipe.bastos@itec.ufpa.br
+linkedin: felipebastosb
+github: felipebastosb
+gitlab: felipebastosb
+spotify: felipebastosb
+instagram: felipebastosb
 # pinterest: mypinterest
-linkedin: mylinkedin
 # youtube: myyoutube
-spotify: myspotify
-github: mygithub
-gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +51,7 @@ gitlab: mygitlab
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: felipe.bastos@itec.ufpa.br
+
 
 authors:
   felipeb:
