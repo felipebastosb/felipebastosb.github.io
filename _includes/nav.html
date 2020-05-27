@@ -5,6 +5,14 @@
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
         {% endif %}
+        
+        {% if site.resume == true %}
+            {% if page.title != "Resume" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/resume">Résumé</a>
+                </li>
+            {% endif %}
+        {% endif %}
 
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
@@ -22,13 +30,7 @@
             {% endif %}
         {% endif %}
 
-        {% if site.resume == true %}
-            {% if page.title != "Resume" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/resume">Résumé</a>
-                </li>
-            {% endif %}
-        {% endif %}
+
 
         {% if site.resume1 == true %}
             <li class="item">
