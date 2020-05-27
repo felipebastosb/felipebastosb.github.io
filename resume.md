@@ -9,7 +9,7 @@ layout: page
 # Felipe Bastos
 
 ## About me
----
+
 
 A
 
@@ -23,7 +23,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Here you can download my CV in [Portuguese](https://google.com/), [English](https://google.com/) or [French](https://google.com/).
 
 ## Skills
----
+
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -43,7 +43,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 </ul>
 
 ## Projects
----
+
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
