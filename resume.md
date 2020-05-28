@@ -21,10 +21,13 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 
 
 ## Experience
+---
 
 ### R&D Intern
 #### LASSE - Telecommunications, Automation and Electronics Research and Development Center
 ###### Dec 2019 - Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Belém, Brazil
+
+---
 
 ### R&D Trainee Engineer
 #### Alstom
@@ -33,6 +36,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 + Development of an IoT network to collect data from railway systems. Mainly using 4G and MQTT
 + Development of a time series database and interfaces for the analysis of time data
 
+---
 
 ### Research Assistant
 #### LASSE - Telecommunications, Automation and Electronics Research and Development Center
@@ -49,6 +53,23 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 + Instructor in a mobile programming course
 
 + Gave lectures about face recognition, IoT, GSM, embedded programming, etc.
+
+---
+
+## Education
+---
+
+### Federal University of Pará
+####  BASc in Computer Engineering
+###### 2015 - 2020
+
+### ESIEA École Supérieure d'Informatique, Électronique, Automatique
+#### MEng in Computer Engineering
+###### 2018 - 2019
+
+### Federal Institute of Educations, Science and Technologie of Pará
+#### HND in Telecommunications 
+###### 2012 - 2015
 
 
 
