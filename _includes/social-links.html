@@ -4,6 +4,36 @@
             <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.lattes %}
+        <a class="link" data-title="lattes.cnpq.br/{{ site.lattes }}" href="http://lattes.cnpq.br/{{ site.lattes }}" target="_blank">
+            <svg class="icon icon-lattes"><use xlink:href="#icon-lattes"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.researchgate %}
+        <a class="link" data-title="www.researchgate.net/profile/{{ site.researchgate }}" href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+            <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.linkedin %}
+        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
+            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.gitlab %}
+        <a class="link" data-title="gitlab.com/{{ site.gitlab }}" href="https://gitlab.com/{{ site.gitlab }}" target="_blank">
+            <svg class="icon icon-gitlab"><use xlink:href="#icon-gitlab"></use></svg>
+        </a>
+    {% endif %}
 
     {% if site.twitter %}
         <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank">
@@ -29,12 +59,6 @@
         </a>
     {% endif %}
 
-    {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
-            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.youtube %}
         <a class="link" data-title="youtube.com/{{ site.youtube }}" href="https://youtube.com/{{ site.youtube }}" target="_blank">
             <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
@@ -50,18 +74,6 @@
     {% if site.lastfm %}
         <a class="link" data-title="last.fm/user/{{ site.lastfm }}" href="https://last.fm/user/{{ site.lastfm }}" target="_blank">
             <svg class="icon icon-lastfm"><use xlink:href="#icon-lastfm"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.gitlab %}
-        <a class="link" data-title="gitlab.com/{{ site.gitlab }}" href="https://gitlab.com/{{ site.gitlab }}" target="_blank">
-            <svg class="icon icon-gitlab"><use xlink:href="#icon-gitlab"></use></svg>
         </a>
     {% endif %}
 
