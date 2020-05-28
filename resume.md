@@ -83,7 +83,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 ---
 
 #### Simulation Environment with ray-tracing for mmWave MIMO Applied to UAVs
-##### Sep 24, 2018 - Brazilian Telecommunications Symposium (SBrT)
+##### Sep 24, 2018 - Brazilian Symposium on Telecommunications and Signal Processing (SBrT)
 
 > Some applications and use cases of unmanned aerial vehicle (UAV or drones) in 5G require communication
 channels with large capacities to transmit, for example, high-resolution videos in real-time.
