@@ -78,10 +78,18 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 ## Publications
 
 #### OPEN-BIKE: OPEN-SOURCE SYSTEM AND OPEN-HARDWARE FOR BICYCLE SHARING 
-#####  Nov 6, 2018 + I CONGRESSO DE TECNOLOGIAS E DESENVOLVIMENTO NA AMAZÔNIA 
-> AA
+######  Nov 6, 2018 - I CONGRESSO DE TECNOLOGIAS E DESENVOLVIMENTO NA AMAZÔNIA 
 
 ---
+
+#### Simulation Environment with ray-tracing for mmWave MIMO Applied to UAVs
+##### Sep 24, 2018 - Brazilian Telecommunications Symposium (SBrT)
+
+> Some applications and use cases of unmanned aerial vehicle (UAV or drones) in 5G require communication
+channels with large capacities to transmit, for example, high-resolution videos in real-time.
+In this case, millimeter waves (mmWaves) are important given the large bandwidth and, consequently, potential to deliver very high bit rates especially when used together with multiple antenna MIMO systems. In order to enable UAVs communicating via mmWaves MIMO, it is important to have good
+channel models and radio propagation data to guide the system design. This paper presents a simulation environment that combines simulators of traffic, flight and ray tracing, to generate large amounts of propagation data between terrestrial transmitters and aerial vehicles in 5G networks. Preliminary
+results show that the proposed environment is flexible and allow for several specific investigations.
 
 
 
