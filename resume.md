@@ -38,7 +38,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 #### LASSE - Telecommunications, Automation and Electronics Research and Development Center
 ###### Feb 2016 - Aug 2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Belém, Brazil
 
-+ Designed and managed the project of an open source real time bus tracker (https://github.com/lasseufpa/circular/)
++ Designed and managed the project of an [open source real time bus tracker](https://github.com/lasseufpa/circular/)
 
 + Researched learning theories applied to engineering
 
