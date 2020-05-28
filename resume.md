@@ -22,38 +22,34 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 
 ## Experience
 
+### R&D Intern
+#### LASSE - Telecommunications, Automation and Electronics Research and Development Center
+###### Dec 2019 - Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Belém, Brazil
+
 ### R&D Trainee Engineer
 #### Alstom
-###### Jun 2019 - Aug 2019 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; St-Ouen, France
+###### Jun 2019 - Aug 2019 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; St-Ouen, France
 
 + Development of an IoT network to collect data from railway systems. Mainly using 4G and MQTT
 + Development of a time series database and interfaces for the analysis of time data
 
-## Skills
+
+### Research Assistant
+#### LASSE - Telecommunications, Automation and Electronics Research and Development Center
+###### Feb 2016 - Aug 2018 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Belém, Brazil
+
++ Designed and managed the project of an open source real time bus tracker (https://github.com/lasseufpa/circular/)
+
++ Researched learning theories applied to engineering
+
++ Worked in the development of IoT solutions for office automation
+
++ Worked with ray-tracing simulators for mmWave and MIMO solutions in mobile scenarios
+
++ Instructor in a mobile programming course
+
++ Gave lectures about face recognition, IoT, GSM, embedded programming, etc.
 
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-## Projects
 
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
