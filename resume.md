@@ -59,7 +59,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 ---
 
 ### ESIEA École Supérieure d'Informatique, Électronique, Automatique
-#### MEng in Computer Engineering
+##### MEng in Computer Engineering
 ###### 2018 - 2019
 
 ---
