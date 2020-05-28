@@ -75,6 +75,14 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 
 ---
 
+## Publications
+
+### OPEN-BIKE: OPEN-SOURCE SYSTEM AND OPEN-HARDWARE FOR BICYCLE SHARING 
+####  Nov 6, 2018 + I CONGRESSO DE TECNOLOGIAS E DESENVOLVIMENTO NA AMAZÔNIA 
+
+---
+
+
 
 
 
