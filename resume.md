@@ -8,14 +8,19 @@ layout: page
 
 # Felipe Bastos
 
-## About me
++ [About me](#about)
++ [Experience](#experience)
++ [Education](#education)
++ [Publications](#publications)
+
+## About me <a name="about"></a>
 
 Computer engineering student, more than four years of R&D experience in embedded systems and telecommunications.
 
 Here you can download my CV in [Portuguese](https://google.com/), [English](https://google.com/) or [French](https://google.com/).
 
 
-## Experience
+## Experience <a name="experience"></a>
 
 ### R&D Intern
 #### LASSE - Telecommunications, Automation and Electronics Research and Development Center
@@ -50,7 +55,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 
 ---
 
-## Education
+## Education <a name="education"></a>
 
 ### Federal University of Pará
 #####  BASc in Computer Engineering
@@ -70,7 +75,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 
 ---
 
-## Publications
+## Publications <a name="publications"></a>
 
 #### OPEN-BIKE: OPEN-SOURCE SYSTEM AND OPEN-HARDWARE FOR BICYCLE SHARING 
 ######  Nov 6, 2018 - I CONGRESSO DE TECNOLOGIAS E DESENVOLVIMENTO NA AMAZÔNIA 
