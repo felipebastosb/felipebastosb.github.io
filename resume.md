@@ -58,7 +58,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 ## Education
 
 ### Federal University of Pará
-####  BASc in Computer Engineering
+#####  BASc in Computer Engineering
 ###### 2015 - 2020
 
 ---
@@ -70,7 +70,7 @@ Here you can download my CV in [Portuguese](https://google.com/), [English](http
 ---
 
 ### Federal Institute of Educations, Science and Technologie of Pará
-#### HND in Telecommunications 
+##### HND in Telecommunications 
 ###### 2012 - 2015
 
 ---
