@@ -10,9 +10,6 @@ layout: page
 
 ## About me
 
-
-A
-
 Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -21,6 +18,16 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Here you can download my CV in [Portuguese](https://google.com/), [English](https://google.com/) or [French](https://google.com/).
+
+
+## Experience
+
+### R&D Trainee Engineer
+#### Alstom
+###### Jun 2019 - Aug 2019 ----- St-Ouen, France
+
++ Development of an IoT network to collect data from railway systems. Mainly using 4G and MQTT
++ Development of a time series database and interfaces for the analysis of time data
 
 ## Skills
 
