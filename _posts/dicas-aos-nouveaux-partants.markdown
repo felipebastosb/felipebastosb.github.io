@@ -14,3 +14,13 @@ description: Dicas de sobrevivencia no país do croissant
 ---
 
 ## Basic formatting
+
+This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+
+And that's how to do it.
+
+{% highlight html %}
+This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
+{% endhighlight %}
+
+---
