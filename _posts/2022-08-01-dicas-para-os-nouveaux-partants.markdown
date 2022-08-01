@@ -81,4 +81,25 @@ Vou listar aqui alguns dicas no para ajudar no dia a dia, vou escrever e organiz
 
 ### Saúde
 
+#### _Sécurité sociale_
+#### _Mutuelle_
+#### Esportes
 
+### Transporte 
+
+### _Aides étudiantes_
+
+#### CAF
+
+### Vida social 
+#### Viagens
+#### Encontrar uma turma
+#### Associations étudiant
+#### Cultura
+
+### Alimentação
+
+#### _Supermarché_
+#### _Resto U_ 
+#### _Menu étudiant_
+#### _To Good To Go_
