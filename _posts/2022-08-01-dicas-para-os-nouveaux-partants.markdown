@@ -48,6 +48,7 @@ Aqui vão algumas dicas que acredito que vocês possam fazer antes de atravessar
 
 - [ ] Arrumar as malas :baggage_claim:
     >  Não façam igual a min, deixem tudo arrumado com alguns dias de antecedência. Assim vocês poderão usar o dia da viagem para se despedir da familia e dos amigos.
+    
 ---
 
 ## _Checklist_ de chegada
