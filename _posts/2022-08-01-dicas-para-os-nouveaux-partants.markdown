@@ -13,7 +13,7 @@ author: felipeb
 description: Dicas de sobrevivência no país do Macaron
 ---
 
-Dicas de sobrevivência no país do Macaron :fr:.
+Dicas de sobrevivência no país do Croissant :fr:.
 
 ---
 
@@ -48,7 +48,7 @@ Aqui vão algumas dicas que acredito que vocês possam fazer antes de atravessar
 
 - [ ] Arrumar as malas :baggage_claim:
     >  Não façam igual a min, deixem tudo arrumado com alguns dias de antecedência. Assim vocês poderão usar o dia da viagem para se despedir da familia e dos amigos.
-    
+
 ---
 
 ## _Checklist_ de chegada
@@ -72,3 +72,13 @@ Alguns procedimentos que acredito que devem ser feitos o mais breve possível de
     > Na maioria das cidades existe a opção de planos de transporte publico para estudantes, em Paris por exemplo, tem o [Imagine-R](https://www.iledefrance-mobilites.fr/imagine-r).
 - [ ] Participem da semana de integração :confetti_ball:
     > Boa parte das universidades/_écoles_ fazem uma semana ou _week-end_ de integração, não deixem de participar. Eu não fui e me arrependo muito :grimacing:. 
+
+---
+
+## Dicas por categoria 
+
+Vou listar aqui alguns dicas no para ajudar no dia a dia, vou escrever e organizar da melhor forma possível.
+
+### Saúde
+
+
