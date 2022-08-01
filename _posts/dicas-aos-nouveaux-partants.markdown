@@ -9,7 +9,7 @@ tag:
 - france
 star: true
 category: blog
-author: felipebastosb
+author: felipeb
 description: Dicas de sobrevivencia no país do croissant
 ---
 
