@@ -2,7 +2,7 @@
 title: "Dicas para os nouveaux partants"
 layout: post
 date: 2022-08-01 10:00
-image: /assets/images/markdown.jpg
+image: /assets/images/france/louvre.jpg
 headerImage: false
 tag:
 - dicas
@@ -57,7 +57,7 @@ Alguns procedimentos que acredito que devem ser feitos o mais breve possível de
 
 - [ ] Descansar e começar a se adaptar ao novo fuso horário :sleeping:
 - [ ] Fazer a validação do visto :page_with_curl:
-    > Façam esse processo assim que possível, processo demora um pouco e pode ser iniciado [nesse site](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/)
+    > Façam assim que possível, o processo demora um pouco e pode ser iniciado [nesse site](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/)
 - [ ] Iniciar o processo da CAF e outros auxílios para estudantes :page_facing_up:
     > A [CAF](https://www.caf.fr/) é um auxilio aluguel que o governo francês oferece aos estudantes, recomendo fazer o pedido logo no mês de chegada, mesmo que ainda não tenham todos os documentos exigidos (tem como enviar o dossier incompleto).
 - [ ] Pagar a taxa CVEC :money_with_wings:
@@ -79,10 +79,12 @@ Alguns procedimentos que acredito que devem ser feitos o mais breve possível de
 
 Vou listar aqui alguns dicas no para ajudar no dia a dia, vou escrever e organizar da melhor forma possível.
 
-### Saúde
+### O que levar na mala
 
+### Saúde
 #### _Sécurité sociale_
 #### _Mutuelle_
+#### Doctolib
 #### Esportes
 
 ### Transporte 
@@ -103,3 +105,9 @@ Vou listar aqui alguns dicas no para ajudar no dia a dia, vou escrever e organiz
 #### _Resto U_ 
 #### _Menu étudiant_
 #### _To Good To Go_
+
+### Estágio
+
+### Dicas para casa
+
+### Dicas extras
