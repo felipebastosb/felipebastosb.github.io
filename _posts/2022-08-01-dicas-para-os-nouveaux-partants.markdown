@@ -89,7 +89,16 @@ A _Sécurité Sociale_, também chamada de _Sécu_ para os mais íntimos, é o s
 
 O procedimento para registro na _Sécu_ pede ser iniciado ainda no Brasil, e eu recomendo que o façam antes mesmo de chegar na França. O pedido pode ser feito através [desse link](http://www.etudiant-etranger.ameli.fr/).
 
-Uma vez oficialmente registrado no seguro, é preciso fazer o pedido da _Carte Vitale_, catão que deve ser utilizo em todos os procedimentos medicos, farmácias, etc. Também existe a possibilidade fazer o pedido da _Carte Européenne D'assurance Maladie_, ela tem a mesma função da _Carte Vitale_, mas pode ser usado em todos os países da União Europeia.
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://felipebastosb.github.io//assets/images/france/euassurance.jpg" alt="Alt Text">
+        <figcaption class="caption"><i>Carte Européenne D'assurance Maladie</i></figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Uma vez oficialmente registrado no seguro, é preciso fazer o pedido da <i>Carte Vitale</i>, catão que deve ser utilizo em todos os procedimentos medicos, farmácias, etc. Também existe a possibilidade fazer o pedido da <i>Carte Européenne D'assurance Maladie</i>, ela tem a mesma função da <i>Carte Vitale</i>, mas pode ser usado em todos os países da União Europeia.</p>
+    </div>
+</div>
 
 A _Sécurité Sociale_ cobre a penas uma parte das despesas medicas, por exemplo, em consultas com clinico geral 70% da consulta é paga pela _Sécu_ e 30% pelo usuário.
  
@@ -110,7 +119,7 @@ Para os alunos bolsista que não conseguirem fazer uma _mutuelle_ estando no Bra
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://felipebastosb.github.io//assets/images/france/doctorlib.png" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <figcaption class="caption">Foto retirada do site do Doctorlib</figcaption>
     </div>
 
     <div class="toright">
