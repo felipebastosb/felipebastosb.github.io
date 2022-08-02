@@ -15,6 +15,8 @@ description: Dicas de sobrevivência no país do Macaron
 
 Dicas de sobrevivência no país do Croissant :fr:.
 
+![Louvre][/assets/images/france/louvre.jpg]
+
 ---
 
 Aqui nesse _post_ vous escrever as dicas que me lembro e que possam ajuda-los durante o _séjour_ na França. Conforme eu for lembrando de mais coisas faço atualizações aqui nessa página. Espero que essa dicas deixe a vida de vocês um pouco mais fácil.
