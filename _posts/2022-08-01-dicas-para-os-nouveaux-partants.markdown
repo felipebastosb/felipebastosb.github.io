@@ -114,9 +114,11 @@ Para os alunos bolsista que não conseguirem fazer uma _mutuelle_ estando no Bra
     </div>
 
     <div class="toright">
-        <p>O [_Doctorlib_](https://www.doctolib.fr/) é uma plataforma que conta com site e também com aplicativo para se realizar a busca e marcação de consultas em toda a França. Existe uma opção de buscar profissionais que falem um idioma em especifico, muito util para conseguir consultas em português caso se sintam em seguros nos primeros meses.</p>
+        <p>O <a href="https://www.doctolib.fr/"><i>Doctorlib</i></a> é uma plataforma que conta com site e também com aplicativo para se realizar a busca e marcação de consultas em toda a França. Existe uma opção de buscar profissionais que falem um idioma em especifico, muito util para conseguir consultas em português caso se sintam em seguros nos primeros meses.</p>
     </div>
 </div>
+
+
 
 #### Esportes
 
