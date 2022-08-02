@@ -187,7 +187,33 @@ Durante os últimos os meses em que fiquei no estágio participei de vários gru
 
 #### Associations étudiant
 
+Uma outra opção bem interessante é participar das associações da universidade/_école_, as opções variam de instituição para instituição. Mas é sembre bom buscar informações e participar de alguma.
+
+Eu fiz parte da associação de aeronáutica na _école_ e fui um período bem legal, a galera construía modelos de foguetes para participar de competições.
+
 #### Cultura
+
+Como já falei antes, os museus (a maioria deles) são gratuitos para estudantes menores de 30 anos, então vale super a pena sair para explorar esse lado das cidades. É bom também ficar atendo aos vários festivais e feiras que podem acontecer, principalmente no verão.
+
+Vocês não podem deixar de tomar um vinho quente em um _Marchés de Noël_, ver as comemorações do _14 Juliet_ ou visitar lugares que normalmente são fechados ao publico durante a _journée du patrimoine_.
+
+##### _Pass Jeunes_
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://felipebastosb.github.io//assets/images/france/tocketjeune3.jpg" alt="Alt Text">
+        <figcaption class="caption">Pass Jeunes</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Muitas cidades oferecem opções para estudantes aproveitarem várias atividade durante o verão. Na região de Paris é possível pedir o <i>Pass Jeunes</i> logo no inicio de verão e aproveitar uma seria de benefícios.</p>
+    </div>
+</div>
+
+Sei que em outras cidades tem programs parecidos, então vale a pena se informar. Eu usei o _Pass Jeunes_ para jogar _golf_, subir na Torre _Eiffel_ e sobrevoar Paris de belão.
+
+![Velib](/assets/images/france/tocketjeune2.jpg)
+<figcaption class="caption">Pass Jeunes</figcaption>
 
 ### Alimentação
 
