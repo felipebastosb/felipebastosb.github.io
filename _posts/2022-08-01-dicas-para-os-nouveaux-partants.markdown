@@ -156,9 +156,37 @@ Todo estudante na França tem direito ao auxilio aluguel da [CAF](https://www.ca
 Lembrando que normalmente será preciso da certidão de nascimento para faze o pedido, então levem e com devida tradução juramentada. 
 
 ### Vida social 
+
 #### Viagens
+
 #### Encontrar uma turma
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://felipebastosb.github.io//assets/images/france/meetup.png" alt="Alt Text">
+        <figcaption class="caption">Foto retirada do site do MeetUp</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>No inicio pede ser difícil encontrar uma turma para fazer atividades que gostamos de fazer, O <a href="https://www.meetup.com/"><i>MeetUp</i></a> é uma plataforma que conta com site e também com aplicativo e que pode dar uma ajuda na hora de se integrar no novo país. Com o <i>Meetup</i> é possível encontrar grupos com gostos em comum parar marcar eventos dos mais diferentes tipos.</p>
+    </div>
+</div>
+
+Se vocês gosta de jogar bola no final de semana e não tem com que jogar, provavelmente deve ter um grupo no _MeetUp_ com o nome _Futebol Paris_ ou _Futebol Lyon_. É possível encontrar grupo para praticar esportes, jogar video game, aprender um novo idioma, cozinhar, viajar, ou simplesmente uma galera querendo marcar de ir num bar jogar papo fora. 
+
+
+![Velib](/assets/images/france/meetup.jpg)
+<figcaption class="caption">Jogo de futebol em Paris marcado pelo MeetUp</figcaption>
+
+Em cidades menores não costumam te muitos grupos, mas vale a pena dar uma olhada no que anda rolando nas cidades próximas.
+
+![Velib](/assets/images/france/veganfest.jpg)
+<figcaption class="caption">Smille Festival em Paris</figcaption>
+
+Durante os últimos os meses em que fiquei no estágio participei de vários grupos no _MeetUp_ e valeu muito, deu pra conhecer muitas pessoas e ficar mais integrado com a cultura local.
+
 #### Associations étudiant
+
 #### Cultura
 
 ### Alimentação
