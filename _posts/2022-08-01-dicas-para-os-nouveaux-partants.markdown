@@ -15,7 +15,7 @@ description: Dicas de sobrevivência no país do Macaron
 
 Dicas de sobrevivência no país do Croissant :fr:.
 
-![Louvre][/assets/images/france/louvre.jpg]
+![Louvre](/assets/images/france/louvre.jpg)
 
 ---
 
