@@ -88,8 +88,6 @@ Vou listar aqui alguns dicas no para ajudar no dia a dia, vou escrever e organiz
 
 A _Sécurité Sociale_, também chamada de _Sécu_ para os mais íntimos, é o seguro de saúde do governo francês. Todo estudante estrangeiro na França tem direito a adesão gratuita a _Sécurité Sociale_.
 
-
-
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://felipebastosb.github.io//assets/images/france/euassurance.jpg" alt="Alt Text">
@@ -97,11 +95,11 @@ A _Sécurité Sociale_, também chamada de _Sécu_ para os mais íntimos, é o s
     </div>
 
     <div class="toright">
-        <p>O procedimento para registro na <i>Sécu</i> pede ser iniciado ainda no Brasil, e eu recomendo que o façam antes mesmo de chegar na França. O pedido pode ser feito através <a href="http://www.etudiant-etranger.ameli.fr/">desse link</a>.
-
+        <p>O procedimento para registro na <i>Sécu</i> pede ser iniciado ainda no Brasil, e eu recomendo que o façam antes mesmo de chegar na França. O pedido pode ser feito através <a href="http://www.etudiant-etranger.ameli.fr/">desse link</a>.</p>
         <p>Uma vez oficialmente registrado no seguro, é preciso fazer o pedido da <i>Carte Vitale</i>, catão que deve ser utilizo em todos os procedimentos medicos, farmácias, etc. Também existe a possibilidade fazer o pedido da <i>Carte Européenne D'assurance Maladie</i>, ela tem a mesma função da <i>Carte Vitale</i>, mas pode ser usado em todos os países da União Europeia.</p>
     </div>
 </div>
+
 
 A _Sécurité Sociale_ cobre a penas uma parte das despesas medicas, por exemplo, em consultas com clinico geral 70% da consulta é paga pela _Sécu_ e 30% pelo usuário.
  
