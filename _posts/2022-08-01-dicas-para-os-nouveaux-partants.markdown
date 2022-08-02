@@ -32,7 +32,7 @@ Aqui vão algumas dicas que acredito que vocês possam fazer antes de atravessar
     > Como os documentos exigidos podem eventualmente mudar, é sempre bom dar uma olhada no [site da embaixada](https://br.ambafrance.org/IMG/pdf/controle-chegada-pt.pdf?5029/1b5b6b3b3105b7018b2f629d92d975462d8d79aa).
 
     > Dica 02: Levem cópias.
-- [ ] Iniciar o processo para obter a _[Carte Vitale](http://www.etudiant-etranger.ameli.fr/)_ :hospital:
+- [ ] Iniciar o processo para obter a [_Carte Vitale_](http://www.etudiant-etranger.ameli.fr/)_ :hospital:
     > De posse do visto é possível fazer o pedido do cartão de seguro saúde do sistema nacional de saúde da França. Eu recomendo fazer o pedido antes mesmo de sair do Brasil, vou falar mais sobre isso na seção sobre *Saúde*.
 
 - [ ] Fazer um planejamento de todo o trajeto até o destino final :airplane:
@@ -85,8 +85,39 @@ Vou listar aqui alguns dicas no para ajudar no dia a dia, vou escrever e organiz
 
 ### Saúde
 #### _Sécurité sociale_
+A _Sécurité Sociale_, também chamada de _Sécu_ para os mais íntimos, é o seguro de saúde do governo francês. Todo estudante estrangeiro na França tem direito a adesão gratuita a _Sécurité Sociale_.
+
+O procedimento para registro na _Sécu_ pede ser iniciado ainda no Brasil, e eu recomendo que o façam antes mesmo de chegar na França. O pedido pode ser feito através [desse link](http://www.etudiant-etranger.ameli.fr/).
+
+Uma vez oficialmente registrado no seguro, é preciso fazer o pedido da _Carte Vitale_, catão que deve ser utilizo em todos os procedimentos medicos, farmácias, etc. Também existe a possibilidade fazer o pedido da _Carte Européenne D'assurance Maladie_, ela tem a mesma função da _Carte Vitale_, mas pode ser usado em todos os países da União Europeia.
+
+A _Sécurité Sociale_ cobre a penas uma parte das despesas medicas, por exemplo, em consultas com clinico geral 70% da consulta é paga pela _Sécu_ e 30% pelo usuário.
+ 
 #### _Mutuelle_
+
+Uma forma de conseguir 100% de cobertura é contratando uma _Mutuelle_, que funciona parecido com os planos de saúde aqui no Brasil. É cobrado um valor mensal na faixa de uns 40 euros, e a _mutuelle_ garante o restante do pagamento das despesas médicas.
+
+Vale lembrar que os alunos que vão com bolsas do governo brasileiro devem obrigatoriamente contratar uma _mutuelle_ que cubra em 100% todos os procedimentos estabelecidos no contrato da bolsa. Mesmo não sendo obrigatório, recomendo também para todos os outros alunos.
+
+Durante o período em que fiquei na França, contratei um plano da [_La Mutuelle des Étudiants_](https://www.lmde.fr/mutuelle-sante/international/i-come-to-study-in-france). Mas vale a pena pesquisar e contratar a _mutuelle_/plano que melhor atenda as suas necessidades. Alguns planos incluem inclusive troca de óculos, medicamentos, etc.
+
+Para os alunos bolsista que não conseguirem fazer uma _mutuelle_ estando no Brasil, uma opção para cobrir as exigências das agencia de fomento é contratar um seguro internacional para o primeiro mês, uma opção é o [_Swiss Care_](https://swisscare.com/en/product/international-student-health-insurance-europe).
+
 #### Doctolib
+
+
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://felipebastosb.github.io//assets/images/france/doctorlib.png" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>O [_Doctorlib_](https://www.doctolib.fr/) é uma plataforma que conta com site e também com aplicativo para se realizar a busca e marcação de consultas em toda a França. Existe uma opção de buscar profissionais que falem um idioma em especifico, muito util para conseguir consultas em português caso se sintam em seguros nos primeros meses.</p>
+    </div>
+</div>
+
 #### Esportes
 
 ### Transporte 
