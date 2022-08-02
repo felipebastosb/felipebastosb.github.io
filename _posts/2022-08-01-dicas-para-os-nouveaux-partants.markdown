@@ -216,7 +216,7 @@ Sei que em outras cidades tem programs parecidos, então vale a pena se informar
 
 As bibliotecas e cafés são boas opções para quando se precisa estudar durante os finais de semana. É uma forma de sair de casa, conhecer mais a arquitetura e historia de onde se está e ainda assim cumprir as obrigações do semestre. As bibliotecas com ar-condicionado também são bons refúgios para os dias de _canicule_
 
-Em Paris as minhas preferidas são a _Bibliothèque publique d'information du Centre Pompidou_, a _Bibliothèque Sainte-Geneviève_ e a _Bibliothèque François Mitterrand_. Cada uma com um estilo e ambiente diferente, No _Pompidou__ tinha uma galera mais jovem, algumas sala com eventos culturais, cursos de musica, a _Sainte-Geneviève_ com um estilo mais clássico e com ambiente mais propicio para a concentração.
+Em Paris as minhas preferidas são a _Bibliothèque publique d'information du Centre Pompidou_, a _Bibliothèque Sainte-Geneviève_ e a _Bibliothèque François Mitterrand_. Cada uma com um estilo e ambiente diferente, No _Pompidou_ tinha uma galera mais jovem, algumas sala com eventos culturais, cursos de musica, a _Sainte-Geneviève_ com um estilo mais clássico e com ambiente mais propicio para a concentração.
 
 Os cafés também são uma boa pedida, o _Anticafé_ tem um espaço aconchegante e por um preço fixo por hora é possível consumir café e alguns laches à vontade.
 
