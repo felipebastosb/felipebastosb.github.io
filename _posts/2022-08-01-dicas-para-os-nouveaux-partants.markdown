@@ -85,9 +85,10 @@ Vou listar aqui alguns dicas no para ajudar no dia a dia, vou escrever e organiz
 
 ### Saúde
 #### _Sécurité sociale_
+
 A _Sécurité Sociale_, também chamada de _Sécu_ para os mais íntimos, é o seguro de saúde do governo francês. Todo estudante estrangeiro na França tem direito a adesão gratuita a _Sécurité Sociale_.
 
-O procedimento para registro na _Sécu_ pede ser iniciado ainda no Brasil, e eu recomendo que o façam antes mesmo de chegar na França. O pedido pode ser feito através [desse link](http://www.etudiant-etranger.ameli.fr/).
+
 
 <div class="side-by-side">
     <div class="toleft">
@@ -96,6 +97,8 @@ O procedimento para registro na _Sécu_ pede ser iniciado ainda no Brasil, e eu 
     </div>
 
     <div class="toright">
+        <p>O procedimento para registro na <i>Sécu</i> pede ser iniciado ainda no Brasil, e eu recomendo que o façam antes mesmo de chegar na França. O pedido pode ser feito através <a href="http://www.etudiant-etranger.ameli.fr/">desse link</a>.
+
         <p>Uma vez oficialmente registrado no seguro, é preciso fazer o pedido da <i>Carte Vitale</i>, catão que deve ser utilizo em todos os procedimentos medicos, farmácias, etc. Também existe a possibilidade fazer o pedido da <i>Carte Européenne D'assurance Maladie</i>, ela tem a mesma função da <i>Carte Vitale</i>, mas pode ser usado em todos os países da União Europeia.</p>
     </div>
 </div>
@@ -131,11 +134,28 @@ Para os alunos bolsista que não conseguirem fazer uma _mutuelle_ estando no Bra
 
 #### Esportes
 
+Uma outra dica é tentar se manter sempre em movimento para garantir a saúde em dia, normalmente existem associações esportivas nas universidades, tem a opção da fazer os deslocamentos de bicicleta, o que é uma ótima opção para conhecer melhor a cidade. 
+
 ### Transporte 
+
+![Velib][/assets/images/france/velib.jpg]
+<figcaption class="caption">Percorrendo as margens do Sena de _Velib_</figcaption>
+
+Como já falei um no _checklist_ ali em cima, muitas cidades oferecem opções de planos anuais para usar o transporte publico, como o [Imagine-R](https://www.iledefrance-mobilites.fr/imagine-r) na região de Paris. Uma outra opção bem interessante é fazer o deslocamentos de bicicleta, o que é uma ótima opção para conhecer melhor a cidade.
+
+No caso das bicicletas existe a opção de comprar uma usada em sites como [_Lebocoin_](https://www.leboncoin.fr/), comprar uma nova ou usar serviços de bicicletas compartilhadas, como o [_Velib_](https://blog.velib-metropole.fr/2021/08/23/tarifs-jeunes-etudiants/) em Paris. Alguns desses serviços tem preços especiais para estudantes.
 
 ### _Aides étudiantes_
 
+Ser estudante na França traz muitas vantagens, como não pagar entrada na maioria dos museus, ter ajuda no aluguel com a CAF, etc. Alguns desses benefícios valem no país inteiro e outros apenas em determinadas cidades e departamentos. Por isso é sembre bom buscar informações sobre nos sites oficiais das _maries_, _prefectures_, departamentos.
+
+Por exemplo, em _Créteil_ estudantes tem direito ao reembolso de 50% do plano estudantil [Imagine-R](https://www.iledefrance-mobilites.fr/imagine-r). Uma boa dica para buscas essas ajudas e dar uma olhada no site [_Aides Sociales_](https://www.aide-sociale.fr/), no [_Étudiant Gouv_](https://www.etudiant.gouv.fr/fr) e também no site do [Campus France](https://www.campusfrance.org/fr).
+
 #### CAF
+
+Todo estudante na França tem direito ao auxilio aluguel da [CAF](https://www.caf.fr/), o beneficio varia de acordo com as condições sociais do estudante e valor do aluguel. Recomendo que façam o pedido logo no primeiro mês, mesmo que enviem um _dossiê_ incompleto, pois o auxilio é paga a partir da data em que o pedido é feito. 
+
+Lembrando que normalmente será preciso da certidão de nascimento para faze o pedido, então levem e com devida tradução juramentada. 
 
 ### Vida social 
 #### Viagens
