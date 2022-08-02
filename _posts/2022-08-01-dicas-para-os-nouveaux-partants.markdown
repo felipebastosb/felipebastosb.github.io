@@ -136,8 +136,8 @@ Uma outra dica é tentar se manter sempre em movimento para garantir a saúde em
 
 ### Transporte 
 
-![Velib][/assets/images/france/velib.jpg]
-<figcaption class="caption">Percorrendo as margens do Sena de _Velib_</figcaption>
+![Velib](/assets/images/france/velib.jpg)
+<figcaption class="caption">Percorrendo as margens do Sena de Velib</figcaption>
 
 Como já falei um no _checklist_ ali em cima, muitas cidades oferecem opções de planos anuais para usar o transporte publico, como o [Imagine-R](https://www.iledefrance-mobilites.fr/imagine-r) na região de Paris. Uma outra opção bem interessante é fazer o deslocamentos de bicicleta, o que é uma ótima opção para conhecer melhor a cidade.
 
