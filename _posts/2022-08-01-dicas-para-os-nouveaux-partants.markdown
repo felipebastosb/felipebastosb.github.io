@@ -209,6 +209,17 @@ Muitas cidades oferecem opções para estudantes aproveitarem várias atividade 
 
 Sei que em outras cidades tem programs parecidos, então vale a pena se informar. Eu usei o _Pass Jeunes_ para jogar _golf_, subir na Torre _Eiffel_ e sobrevoar Paris de belão.
 
+#### Bibliotecas e cafés
+
+![pass2](/assets/images/france/anticafe.jpg)
+<figcaption class="caption">Anticafé</figcaption>
+
+As bibliotecas e cafés são boas opções para quando se precisa estudar durante os finais de semana. É uma forma de sair de casa, conhecer mais a arquitetura e historia de onde se está e ainda assim cumprir as obrigações do semestre. As bibliotecas com ar-condicionado também são bons refúgios para os dias de _canicule_
+
+Em Paris as minhas preferidas são a _Bibliothèque publique d'information du Centre Pompidou_, a _Bibliothèque Sainte-Geneviève_ e a _Bibliothèque François Mitterrand_. Cada uma com um estilo e ambiente diferente, No _Pompidou__ tinha uma galera mais jovem, algumas sala com eventos culturais, cursos de musica, a _Sainte-Geneviève_ com um estilo mais clássico e com ambiente mais propicio para a concentração.
+
+Os cafés também são uma boa pedida, o _Anticafé_ tem um espaço aconchegante e por um preço fixo por hora é possível consumir café e alguns laches à vontade.
+
 ### Alimentação
 
 #### _Supermarché_
@@ -220,7 +231,7 @@ Sei que em outras cidades tem programs parecidos, então vale a pena se informar
 
 ### Dicas para casa
 
-#### _GEEV_
+#### _Geev_
 
 ![geev](/assets/images/france/geev.jpg)
 <figcaption class="caption">Geev</figcaption>
