@@ -175,12 +175,12 @@ Lembrando que normalmente será preciso da certidão de nascimento para faze o p
 Se vocês gosta de jogar bola no final de semana e não tem com que jogar, provavelmente deve ter um grupo no _MeetUp_ com o nome _Futebol Paris_ ou _Futebol Lyon_. É possível encontrar grupo para praticar esportes, jogar video game, aprender um novo idioma, cozinhar, viajar, ou simplesmente uma galera querendo marcar de ir num bar jogar papo fora. 
 
 
-![Velib](/assets/images/france/meetup.jpg)
+![meetup](/assets/images/france/meetup.jpg)
 <figcaption class="caption">Jogo de futebol em Paris marcado pelo MeetUp</figcaption>
 
 Em cidades menores não costumam te muitos grupos, mas vale a pena dar uma olhada no que anda rolando nas cidades próximas.
 
-![Velib](/assets/images/france/veganfest.jpg)
+![veganfest](/assets/images/france/veganfest.jpg)
 <figcaption class="caption">Smille Festival em Paris</figcaption>
 
 Durante os últimos os meses em que fiquei no estágio participei de vários grupos no _MeetUp_ e valeu muito, deu pra conhecer muitas pessoas e ficar mais integrado com a cultura local.
@@ -197,14 +197,14 @@ Como já falei antes, os museus (a maioria deles) são gratuitos para estudantes
 
 Vocês não podem deixar de tomar um vinho quente em um _Marchés de Noël_, ver as comemorações do _14 Juliet_ ou visitar lugares que normalmente são fechados ao publico durante a _journée du patrimoine_.
 
-##### _Pass Jeunes_
+#### _Pass Jeunes_
 
-![Velib](/assets/images/france/tocketjeune3.jpg)
+![pass1](/assets/images/france/tocketjeune3.jpg)
 <figcaption class="caption">Pass Jeunes</figcaption>
 
 Muitas cidades oferecem opções para estudantes aproveitarem várias atividade durante o verão. Na região de Paris é possível pedir o _Pass Jeunes_ logo no inicio de verão e aproveitar uma seria de benefícios.
 
-![Velib](/assets/images/france/tocketjeune2.jpg)
+![pass2](/assets/images/france/tocketjeune2.jpg)
 <figcaption class="caption">Pass Jeunes</figcaption>
 
 Sei que em outras cidades tem programs parecidos, então vale a pena se informar. Eu usei o _Pass Jeunes_ para jogar _golf_, subir na Torre _Eiffel_ e sobrevoar Paris de belão.
@@ -220,4 +220,15 @@ Sei que em outras cidades tem programs parecidos, então vale a pena se informar
 
 ### Dicas para casa
 
+#### _GEEV_
+
+![geev](/assets/images/france/geev.jpg)
+<figcaption class="caption">GEEV</figcaption>
+
+O GEEV é um aplicativo onde pessoas podem disponibilizar coisas que não estão mais utilizando em casa para doação, é possível ver o que está disponível para doação próximo de você. É uma ótima opção para conseguir coisas para casa, como utensílios de cozinha. Também é uma ótima opção do momento de voltar para o Brasil, sendo ideia para deixar para outras pessoas aquilo que não cabe na mala.
+
 ### Dicas extras
+
+#### _Défenseur de droit_ 
+
+#### _La Poste_
