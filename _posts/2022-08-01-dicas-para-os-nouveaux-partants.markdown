@@ -199,21 +199,15 @@ Vocês não podem deixar de tomar um vinho quente em um _Marchés de Noël_, ver
 
 ##### _Pass Jeunes_
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://felipebastosb.github.io//assets/images/france/tocketjeune3.jpg" alt="Alt Text">
-        <figcaption class="caption">Pass Jeunes</figcaption>
-    </div>
+![Velib](/assets/images/france/tocketjeune3.jpg)
+<figcaption class="caption">Pass Jeunes</figcaption>
 
-    <div class="toright">
-        <p>Muitas cidades oferecem opções para estudantes aproveitarem várias atividade durante o verão. Na região de Paris é possível pedir o <i>Pass Jeunes</i> logo no inicio de verão e aproveitar uma seria de benefícios.</p>
-    </div>
-</div>
-
-Sei que em outras cidades tem programs parecidos, então vale a pena se informar. Eu usei o _Pass Jeunes_ para jogar _golf_, subir na Torre _Eiffel_ e sobrevoar Paris de belão.
+Muitas cidades oferecem opções para estudantes aproveitarem várias atividade durante o verão. Na região de Paris é possível pedir o _Pass Jeunes_ logo no inicio de verão e aproveitar uma seria de benefícios.
 
 ![Velib](/assets/images/france/tocketjeune2.jpg)
 <figcaption class="caption">Pass Jeunes</figcaption>
+
+Sei que em outras cidades tem programs parecidos, então vale a pena se informar. Eu usei o _Pass Jeunes_ para jogar _golf_, subir na Torre _Eiffel_ e sobrevoar Paris de belão.
 
 ### Alimentação
 
