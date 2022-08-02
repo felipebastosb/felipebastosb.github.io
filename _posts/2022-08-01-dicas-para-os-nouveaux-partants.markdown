@@ -223,9 +223,9 @@ Sei que em outras cidades tem programs parecidos, então vale a pena se informar
 #### _GEEV_
 
 ![geev](/assets/images/france/geev.jpg)
-<figcaption class="caption">GEEV</figcaption>
+<figcaption class="caption">Geev</figcaption>
 
-O GEEV é um aplicativo onde pessoas podem disponibilizar coisas que não estão mais utilizando em casa para doação, é possível ver o que está disponível para doação próximo de você. É uma ótima opção para conseguir coisas para casa, como utensílios de cozinha. Também é uma ótima opção do momento de voltar para o Brasil, sendo ideia para deixar para outras pessoas aquilo que não cabe na mala.
+O [_Geev_](https://www.geev.com/) é um aplicativo onde pessoas podem disponibilizar coisas que não estão mais utilizando em casa para doação, é possível ver o que está disponível para doação próximo de você. É uma ótima opção para conseguir coisas para casa, como utensílios de cozinha. Também é uma ótima opção do momento de voltar para o Brasil, sendo ideia para deixar para outras pessoas aquilo que não cabe na mala.
 
 ### Dicas extras
 
