@@ -224,6 +224,21 @@ Os cafés também são uma boa pedida, o _Anticafé_ tem um espaço aconchegante
 
 #### _Supermarché_
 #### _Resto U_ 
+
+Os restaurantes do [CROUS](https://www.crous-paris.fr/restauration/les-lieux-de-restauration/) são sempre uma ótima pedida, principalmente para quem mora em residencias sem cozinha própria. Além de oferecer residencias estudantis o [CROUS](https://www.crous-paris.fr/restauration/les-lieux-de-restauration/) oferece uma seria de serviços para estudantes, como lavanderias e restaurantes.
+
+As refeições são vendidas com um ótimo preço para estudantes (3,30€). Qualquer estudante matriculado na França pode frequentar qualquer _Resto U'_ do [CROUS](https://www.crous-paris.fr/restauration/les-lieux-de-restauration/) seja na sua Universidade ou em qualquer outro local, assim da pra usar esse serviço até mesmo em viagens dentro da França.
+
+Com o passar do tempo acebei percebendo que nem todos os  _Resto U'_ seguem o mesmo padrão de qualidade, então se não tiveres uma boa experiencia, recomendo tentar outro restaurante.
+
+Assim como na seção das [bibliotecas](#### Bibliotecas e cafés), vou fazer uma lista dos meus restaurantes preferidos do [CROUS](https://www.crous-paris.fr/restauration/les-lieux-de-restauration/).
+
+Segue o _ranking_:
+
+Em *terceiro lugar* vem o _Bullier_, fica no prédio administrativo do CROUS de Paris e bem em frente a estação _Port Royal_ do _RER B_. Sempre conta com um cardápio bem variado e com opções de pizza, no local também tem a opção de emitir e recarregar o cartão [Izly](https://www.izly.fr/), que pode ser usado nos restaurantes e lavanderias do CROUS.
+
+
+
 #### _Menu étudiant_
 #### _To Good To Go_
 
